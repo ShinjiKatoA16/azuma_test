@@ -11,3 +11,7 @@
 ## if 文
 
 - [Quiz 3](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUMFVJOVlXQ002VDNPVjdKVDhLTFJUOVBGMS4u)
+
+## int, float, str, print
+
+- [Quiz 4](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUMTVBT1dPVTNVUFVTMzFLUEtGSjVENUQyTi4u)
