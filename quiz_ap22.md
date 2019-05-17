@@ -21,3 +21,7 @@
 ## dictionary
 
 - [Quiz dictionary](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BURDlJVlAyT1pBUUoySElZRjZQUjlPSVRPRi4u)
+
+## set
+
+- [Quiz set](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUQU1CTlk5U0xOVUlGODI5REZGMjZENUNCNy4u)
