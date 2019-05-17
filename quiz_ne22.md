@@ -11,3 +11,8 @@
 ## if statement
 
 - [Quiz if](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUMkdGUU1GU1JVOTdES0NRRkNUOVNCWlo5NS4u)
+
+## int, float, str, print
+
+- [Quiz print](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUM0lQVlU2RFdCQU1MT0YyOFFZT01URURDSC4u)
+- [Quiz variables](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUMlNROURTUThSRkZUQU1WTEE4WkVVVk9aNC4u)
