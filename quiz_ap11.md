@@ -7,7 +7,12 @@
 ## 変数（へんすう）
 
 - [Quiz variable](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUQTZUSUlXVkdMQTFaQzdUSzlDQldWM1lCRi4u)
+- [Quiz print](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BURFZMRkFPMURLSlNMU1UzMVRPSUI5MzNCMC4u)
 
 ## 文字列（もじれつ）のインデックスとスライシング
 
 - [Quiz string](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUN0xYTzNCMENBSk9POVRKOEVQUTVVRVc5Vi4u)
+
+## if 文
+
+- [Quiz if](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUNU9EQlVUTE9USTU4N0FGWTg1SDZVTUNKOC4u)
