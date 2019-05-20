@@ -14,6 +14,7 @@
 
 ## int, float, str, print
 
+- [Quiz variables](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUMlFFVzFIRTgxQlFXVDU1UlVEWURUNlc2QS4u)
 - [Quiz print](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUMTVBT1dPVTNVUFVTMzFLUEtGSjVENUQyTi4u)
 
 ## list, tuple
