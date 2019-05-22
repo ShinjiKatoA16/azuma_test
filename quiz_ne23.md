@@ -11,3 +11,7 @@
 ## if 文
 
 - [Quiz if statement](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BURVdFSklCMENIVTE0UzNIOEhGTjhUQUlKVy4u)
+
+## list, tuple
+
+- [Quiz list, tuple](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUQlRMWThCVjlLMUdPVTkwOVRDR1k2Q05VQS4u)
