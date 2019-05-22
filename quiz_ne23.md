@@ -8,6 +8,11 @@
 
 - [Quiz String](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BURTROR1ZDSFJUOFhUS0c3VlhTMjhPSzBQRC4u)
 
+## int, float, str and print
+
+- [Quiz variables](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUMllBNTlMVEcyOUJRU04wSUpSVVVWSElQMS4u)
+- [Quiz int,float,str](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUMU1NOURMMVdMOVVZREpaVDRLSVNHTERHTS4u)
+
 ## if 文
 
 - [Quiz if statement](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BURVdFSklCMENIVTE0UzNIOEhGTjhUQUlKVy4u)
