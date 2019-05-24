@@ -1,4 +1,4 @@
-# AP2-2 Quiz of Python (Python のクイズ)
+# AP2-2(AM 4F) Quiz of Python (Python のクイズ)
 
 ## Operators (演算子）
 
@@ -18,6 +18,9 @@
 - [Quiz print](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUMTVBT1dPVTNVUFVTMzFLUEtGSjVENUQyTi4u)
 
 ## list, tuple
+
+- [Quiz List-1](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUQVhCSlQ2QVA3NjlHMEMxSTNQN1c2MlhHMi4u)
+- [Quiz List-2]()
 
 ## dictionary
 
