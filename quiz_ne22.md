@@ -1,4 +1,4 @@
-# NE2-2 Quiz of Python (Python のクイズ)
+# NE2-2(PM 3F) Quiz of Python (Python のクイズ)
 
 ## Operators (演算子）
 
@@ -16,3 +16,7 @@
 
 - [Quiz print](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUM0lQVlU2RFdCQU1MT0YyOFFZT01URURDSC4u)
 - [Quiz variables](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUMlNROURTUThSRkZUQU1WTEE4WkVVVk9aNC4u)
+
+## List, Tuple
+
+- [Quiz List-1](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BURTdRUVVHNVg3SVJQWkQ4SE83N1dYNTVUOC4u)
