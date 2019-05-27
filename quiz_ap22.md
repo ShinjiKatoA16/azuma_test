@@ -20,7 +20,7 @@
 ## list, tuple
 
 - [Quiz List-1](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUQVhCSlQ2QVA3NjlHMEMxSTNQN1c2MlhHMi4u)
-- [Quiz List-2]()
+- [Quiz List-2](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BURFdZWVpQSVdZU0VJVFhHM1lEVTJOVkJZUy4u)
 
 ## dictionary
 
