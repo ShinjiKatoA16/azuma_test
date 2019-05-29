@@ -19,4 +19,5 @@
 
 ## list, tuple
 
-- [Quiz list, tuple](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUQlRMWThCVjlLMUdPVTkwOVRDR1k2Q05VQS4u)
+- [Quiz list, tuple 1](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUQlRMWThCVjlLMUdPVTkwOVRDR1k2Q05VQS4u)
+- [Quiz List tuple 2](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BURFQ1NkJXWkI3MDQ2MERKQ0UwNTYzM0dSRy4u)
