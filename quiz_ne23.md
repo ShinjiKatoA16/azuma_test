@@ -1,4 +1,4 @@
-# NE2-3 Quiz of Python (Python のクイズ)
+# NE2-3(AM 3F) Quiz of Python (Python のクイズ)
 
 ## Operators (演算子）
 
@@ -25,3 +25,7 @@
 ## dictionary
 
 - [Quiz dictionary](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUMjJZRlJZMThDWUUxUFBIWUxBSFA3UlZURC4u)
+
+## set
+
+-[Quiz set](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUQTVLN0pRNE5URDQ4NzVKT0pJWjYyVjg4MS4u)
