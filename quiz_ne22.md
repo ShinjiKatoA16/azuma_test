@@ -20,3 +20,7 @@
 ## List, Tuple
 
 - [Quiz List-1](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BURTdRUVVHNVg3SVJQWkQ4SE83N1dYNTVUOC4u)
+
+## Dicitonary
+
+- [Quiz Dictionary-1](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BURTlGRDI1S1hONTRXWTgxRzJJUlpVWTdXTi4u)
