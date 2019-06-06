@@ -24,3 +24,7 @@
 ## Dicitonary
 
 - [Quiz Dictionary-1](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BURTlGRDI1S1hONTRXWTgxRzJJUlpVWTdXTi4u)
+
+## Set
+
+- [Set](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUOFc3OTNVWkVXWTVDQVRFTkZZUzBZVVNIRC4u)
