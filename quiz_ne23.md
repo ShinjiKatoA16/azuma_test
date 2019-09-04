@@ -33,3 +33,4 @@
 ## for while
 
 - [Quiz loop-1](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUNDJCTFlRRk9IMDhEUVlMNURJV1dPVFk3Ri4u)
+- [Quiz loop-2](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUMjkxNFZLREFVWU4wUzNZRkJORVhaMUY0TC4u)
