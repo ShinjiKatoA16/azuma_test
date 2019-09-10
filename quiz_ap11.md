@@ -1,5 +1,9 @@
 # AP1-1(PM 5F) Quiz of Python (Python のクイズ)
 
+## ちゅうかんしけん　れんしゅうもんだい
+
+- [Test practice](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUOEk0SjEzQldNOEo4RDBVV1lDT0s5MkI2My4u)
+
 ## Operators (演算子）
 
 - [Quiz operator](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUMkE1RFJGMjA1UFlUU0Y3M1Y5TDk2T0pDVy4u)
