@@ -29,3 +29,8 @@
 ## set
 
 - [Quiz set](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUQU1CTlk5U0xOVUlGODI5REZGMjZENUNCNy4u)
+
+## Loop (for, while)
+
+- [Loop 1](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUN1RUS0dFQUlXNU1DT0dLRVNBWEZMNjM5Mi4u)
+- [Loop 2](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUQTlYUU9VUkJCTkUzRTRIR1pDUzczWkNYMy4u)
