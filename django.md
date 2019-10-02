@@ -16,7 +16,7 @@ Following conda commands are used. Change env_name to proper one.
 - `conda create -n env_name python=xx.xx`
 - `conda atrivate env_name`
 - `conda deactivate`
-- `conda remove -n env_name`
+- `conda remove -n env_name` --all
 
 ### Sample operation
 
@@ -41,7 +41,7 @@ Following conda commands are used. Change env_name to proper one.
 
 #### Remove py35
 
-- `conda remove -n py35`
+- `conda remove -n py35` --all
 - `conda info -e`
 
 ## Create virtual envrionment for Django
