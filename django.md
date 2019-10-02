@@ -50,3 +50,46 @@ Following conda commands are used. Change env_name to proper one.
 - `conda activate django`
 - `pip install Django`
 - `pip list`
+
+# Django project (application)
+
+## Create working directory for Django project
+
+- move to your home directory (C:\Users\NExxxxx)
+- `mkdir djangogirls`
+- `cd djangogirls`
+- Confirm that directory is changed properly (C:\Users\NExxxxx\djangogirls)
+
+## Create Django project
+
+- Confirm that virtual envrinment **django** is activated. Prompt is (django)C:\Users\NExxxx\djangogirls
+- `django-admin.exe startproject mysite .`  <- take care not to forget period.
+- `dir`
+- <- confirm that manage.py and mysite exist
+- run web server
+- `python manage.py runserver`
+- Access the server 127.0.0.1:8000 using web browser (Chrome)
+- Check the source code of HomePage (which is dynamically created)
+- Terminate the web server Ctrl-C (Ctrl-Break  Ctrl-Fn-B ?)
+
+### Change settings
+
+- `atom mysite\settings.py`
+  + TIME_ZONE = 'Asia/Tokyo'
+  + LANGUAGE_CODE = 'ja'
+  + STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+  
+Try other than **ja** in LANGUAGE_CODE. 
+STATIC_ROOT is to be written after STATIC_URL = '/static/'
+
+### Migrate
+
+- `python manage.py migrate`
+
+### Verification
+
+Restart web server
+
+- `python manage.py runserver`
+- Access the server 127.0.0.1:8000 using web browser (Chrome)
+- Terminate the web server Ctrl-C (Ctrl-Break  Ctrl-Fn-B ?)
