@@ -51,7 +51,7 @@ Following conda commands are used. Change env_name to proper one.
 - `pip install Django`
 - `pip list`
 
-# Django project (application)
+# Django Application
 
 ## Create working directory for Django project
 
@@ -93,3 +93,65 @@ Restart web server
 - `python manage.py runserver`
 - Access the server 127.0.0.1:8000 using web browser (Chrome)
 - Terminate the web server Ctrl-C (Ctrl-Break  Ctrl-Fn-B ?)
+
+## Blog post
+
+We will create **Blog Post** application in this tutorial.
+
+- `python manage.py startapp blog`
+- `dir`  <- confirm that **blog** sub-directory is created under djangogirls
+- Modify mysite\settings.py, (add blog.apps.BlogConfig to INSTALLED_APPS section) 
+
+```
+INSTALLED_APPS = [
+    'django.contrib.admin',
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
+    'django.contrib.sessions',
+    'django.contrib.messages',
+    'django.contrib.staticfiles',
+    'blog.apps.BlogConfig',
+]
+```
+
+- edit blog\models.py
+
+```
+from django.conf import settings
+from django.db import models
+from django.utils import timezone
+
+
+class Post(models.Model):
+    author = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
+    title = models.CharField(max_length=200)
+    text = models.TextField()
+    created_date = models.DateTimeField(default=timezone.now)
+    published_date = models.DateTimeField(blank=True, null=True)
+
+    def publish(self):
+        self.published_date = timezone.now()
+        self.save()
+
+    def __str__(self):
+        return self.title
+```
+
+- `python manage.py makemigrations blog`
+- `python manage.py migrate blog`
+
+### Django admin
+
+- edit blog\admin.py
+
+```
+from django.contrib import admin
+from .models import Post
+
+admin.site.register(Post)
+```
+
+- `python manage.py createsuperuser`
+- `python manage.py runserver`
+- access 127.0.0.1:8000/admin
+- add several blog
