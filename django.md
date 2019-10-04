@@ -155,3 +155,10 @@ admin.site.register(Post)
 - `python manage.py runserver`
 - access 127.0.0.1:8000/admin
 - add several blog
+
+# Deploy
+
+Read https://tutorial.djangogirls.org/ja/deploy/
+
+- Create GitHub account
+- Create PythonAnywhere account
