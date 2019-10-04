@@ -14,7 +14,7 @@ Following conda commands are used. Change env_name to proper one.
 
 - `conda info -e`
 - `conda create -n env_name python=xx.xx`
-- `conda atrivate env_name`
+- `conda activate env_name`
 - `conda deactivate`
 - `conda remove -n env_name` --all
 
