@@ -161,4 +161,7 @@ admin.site.register(Post)
 Read https://tutorial.djangogirls.org/ja/deploy/
 
 - Create GitHub account
+   + Install ATOM and Git, Q:\04_python\01_開発環境
+   + set environment variable https://did2memo.net/2017/03/15/windows-set-environment-variables-without-admin-auth/
+   + https://techacademy.jp/magazine/6235
 - Create PythonAnywhere account
