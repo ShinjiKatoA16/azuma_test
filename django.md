@@ -164,14 +164,14 @@ Read https://tutorial.djangogirls.org/ja/deploy/
    + Install ATOM and Git, Q:\04_python\01_開発環境
    + set environment variable https://did2memo.net/2017/03/15/windows-set-environment-variables-without-admin-auth/
    + https://techacademy.jp/magazine/6235
-   + git を install したら最初に一度だけ global に名前と e-mail address を登録
+   + git を install したら最初に一度だけ global に名前と e-mail address を登録。この情報が Commit に記録される
       - `git config --global user.name "Your Name"`
       - `git config --global user.email you@example.com`
 - ローカル側で repository を作成し、Github と関連づける
    + github で my-first-blog という名前でカラの repository をつくる
    + `cd C:\users\you_user_id\djangogirls`
    + `git init`
-   + .gitignore というファイルを作成する
+   + .gitignore というファイルを作成する。これらのファイルは add, commit の対象にならない
 ```
 *.pyc
 *~
@@ -189,7 +189,7 @@ db.sqlite3
 - Create PythonAnywhere account
   + https://www.pythonanywhere.com にアクセスして User ID を作成する。無料の Beginner をえらぶ。User 名は URL のいちぶになるので良い名前をえらぶ
   + pythonanywhere でトークンをさくせい。Account -> API Token -> Create a new API Token
-  + pythonanywhere の画面で bash をうごかして以下のコマンドをにゅうりょく
+  + pythonanywhere の画面で bash をうごかして以下のコマンドをにゅうりょく。（プロジェクトごとに1回だけ）
      - pip3.6 install --user pythonanywhere
      - pa_autoconfigure_django.py https://github.com/your-github-username/my-first-blog.git
      - python manage.py createsuperuser
