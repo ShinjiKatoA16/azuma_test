@@ -193,3 +193,29 @@ db.sqlite3
      - pip3.6 install --user pythonanywhere
      - pa_autoconfigure_django.py https://github.com/your-github-username/my-first-blog.git
      - python manage.py createsuperuser
+  + ユーザID.pythonanywhere.com にアクセスしてうごいていることをかくにん
+     
+# よく使う Git command
+
+ほかにも色々便利な機能がある。"git 使い方" をキーワードにして検索すればたくさん記事がある。[Pro git](https://progit-ja.github.io/) がよくまとまっている。
+
+## Github から Repository を copy
+
+- git clone https://github.com/user_name/repository_name
+
+## local repository のじょうたいをかくにん
+
+- git status
+
+## ファイルの追加・変更
+
+- git add ファイル名
+- git commit ファイル名 -m "コメント"
+
+## commit を Remote repository に反映
+
+- git push
+
+## commit のりれきを確認
+
+- git log
