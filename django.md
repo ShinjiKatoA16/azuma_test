@@ -182,7 +182,7 @@ db.sqlite3
 .DS_Store
 ```
 
-   + `git add --all .`    (さいごの . にちゅうい)
+   + `git add --all .`
    + `git commit -m "My Django Girls app, first commit"`
    + `git remote add origin https://github.com/<your-github-username>/my-first-blog.git`
    + `git push -u origin master`
@@ -191,7 +191,7 @@ db.sqlite3
   + pythonanywhere でトークンをさくせい。Account -> API Token -> Create a new API Token
   + pythonanywhere の画面で bash をうごかして以下のコマンドをにゅうりょく。（プロジェクトごとに1回だけ）
      - pip3.6 install --user pythonanywhere
-     - pa_autoconfigure_django.py https://github.com/your-github-username/my-first-blog.git
+     - pa_autoconfigure_django.py https://github.com/your-github-username/my-first-blog.git (your-github-username を自分の ID におきかえる)
      - python manage.py createsuperuser
   + ユーザID.pythonanywhere.com にアクセスしてうごいていることをかくにん
      
