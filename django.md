@@ -220,3 +220,61 @@ db.sqlite3
 ## commit のりれきを確認
 
 - git log
+
+# DjangoGirls トップページにスタティックな HTML　を表示
+
+## Django  urls, view, template
+
+  - https://tutorial.djangogirls.org/ja/django_urls/
+  - https://tutorial.djangogirls.org/ja/django_views/
+  - https://tutorial.djangogirls.org/ja/html/
+  
+## what to do
+
+  - append `path('', include('blog.urls')),` in urlpatterns list in mysite/urls.py
+  - create blog/urls.py
+  
+```
+from django.urls import path
+from . import views
+
+urlpatterns = [
+    path('', views.post_list, name='post_list'),
+]
+```
+
+  - modify blog/view.py
+  
+```
+from django.shortcuts import render
+
+def post_list(request):
+    return render(request, 'blog/post_list.html', {})
+```
+
+  - create blog/templates/blog/post_list.html
+  
+```
+<html>
+    <head>
+        <title>Django Girls blog</title>
+    </head>
+    <body>
+        <div>
+            <h1><a href="/">Django Girls Blog</a></h1>
+        </div>
+
+        <div>
+            <p>published: 14.06.2014, 12:14</p>
+            <h2><a href="">My first post</a></h2>
+            <p>Aenean eu leo quam. こんにちは！ よろしくお願いします！ </p>
+        </div>
+
+        <div>
+            <p>公開日: 2014/06/14, 12:14</p>
+            <h2><a href="">2番目の投稿</a></h2>
+            <p> こんにちは！ よろしくお願いします！ </p>
+        </div>
+    </body>
+</html>
+```
