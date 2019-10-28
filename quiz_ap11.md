@@ -17,6 +17,10 @@
 
 - [Quiz string](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUN0xYTzNCMENBSk9POVRKOEVQUTVVRVc5Vi4u)
 
+## List
+
+- [List 基礎](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUQURGMjkwNlVaNDVGN0xNQ0c0Wks2UUo4Vi4u)
+
 ## if 文
 
 - [Quiz if](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUNU9EQlVUTE9USTU4N0FGWTg1SDZVTUNKOC4u)
