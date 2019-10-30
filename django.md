@@ -234,8 +234,17 @@ db.sqlite3
   
 ## what to do
 
-  - append `path('', include('blog.urls')),` in urlpatterns list in mysite/urls.py
-  - create blog/urls.py
+  - modify mysite\urls.py
+```
+from django.contrib import admin
+from django.urls import path, include
+
+urlpatterns = [
+    path('admin/', admin.site.urls),
+    path('', include('blog.urls')),
+]
+```
+  - create blog\urls.py
   
 ```
 from django.urls import path
@@ -246,7 +255,7 @@ urlpatterns = [
 ]
 ```
 
-  - modify blog/view.py
+  - modify blog\view.py
   
 ```
 from django.shortcuts import render
