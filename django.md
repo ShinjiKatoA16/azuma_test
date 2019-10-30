@@ -226,6 +226,8 @@ db.sqlite3
 
 ## Django  urls, view, template
 
+  - https://www.sejuku.net/blog/26407
+  - https://djangobrothers.com/tutorials/memo_app/mtv/
   - https://tutorial.djangogirls.org/ja/django_urls/
   - https://tutorial.djangogirls.org/ja/django_views/
   - https://tutorial.djangogirls.org/ja/html/
