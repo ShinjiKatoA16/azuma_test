@@ -290,3 +290,19 @@ def post_list(request):
     </body>
 </html>
 ```
+
+# ふたたび Deploy
+
+- Local のへんこうを github に upload
+  + djangogirls の directory に cd コマンドで移る  `cd djangogirls`
+  + `git status`
+  + `git add --all .`
+  + `git status`
+  + `git commit -m "Change the HTML for the site" `
+  + `git push`
+- github の変更を pythonanywhere にはんえいさせる
+  + bash をひらく
+  + 自分の User-ID.pythonanywhere.com の directory にうつる  `cd User-ID.pythonanywhere.com`
+  + `git pull`
+- pythonanywhere の web の tab をひらいて、**Reload** のボタンをクリック
+- User-ID.pythonanywhere.com を web browser でひらく
