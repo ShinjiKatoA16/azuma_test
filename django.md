@@ -172,7 +172,8 @@ Read https://tutorial.djangogirls.org/ja/deploy/
    + github で my-first-blog という名前でカラの repository をつくる
    + `cd C:\users\you_user_id\djangogirls`
    + `git init`
-   + .gitignore というファイルを作成する。これらのファイルは add, commit の対象にならない
+   + `git remote add origin https://github.com/<your-github-username>/my-first-blog.git`
+- .gitignore というファイルを作成する。これらのファイルは add, commit の対象にならない
 ```
 *.pyc
 *~
@@ -182,10 +183,9 @@ db.sqlite3
 /static
 .DS_Store
 ```
-
+- へんこうを github の repository に push する
    + `git add --all .`
    + `git commit -m "My Django Girls app, first commit"`
-   + `git remote add origin https://github.com/<your-github-username>/my-first-blog.git`
    + `git push -u origin master`
 - Create PythonAnywhere account
   + https://www.pythonanywhere.com にアクセスして User ID を作成する。無料の Beginner をえらぶ。User 名は URL のいちぶになるので良い名前をえらぶ
