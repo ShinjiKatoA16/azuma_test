@@ -195,7 +195,7 @@ db.sqlite3
      - pa_autoconfigure_django.py https://github.com/your-github-username/my-first-blog.git (your-github-username を自分の ID におきかえる)
      - python manage.py createsuperuser
   + ユーザID.pythonanywhere.com にアクセスしてうごいていることをかくにん
-  + pythonanywhere から抜けたあとに、再度 bash を立ち上げた場合は `workon ユーザーID.pythonanywhere.com` を実行して仮想環境を activate する
+  + pythonanywhere から抜けたあとに、再度 bash を立ち上げた場合は `workon ユーザーID.pythonanywhere.com` を実行して仮想環境を activate して `cd ユーザーID.pythonanywhere.com` でディレクトリを移動する
   + いちど作成した web application を削除する場合は Login した後の画面で **Web** のタブをクリック -> 画面の一番下で `Delete xxxx.pythonanywhere.com` のボタンをクリック。再度 pa_autoconfigure_django.py を --nuke オプションを付けて実行する
      
 # よく使う Git command
