@@ -256,7 +256,7 @@ urlpatterns = [
 ]
 ```
 
-  - modify blog\view.py
+  - modify blog\views.py
   
 ```
 from django.shortcuts import render
