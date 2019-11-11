@@ -21,6 +21,10 @@
 
 - [List 基礎](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUQURGMjkwNlVaNDVGN0xNQ0c0Wks2UUo4Vi4u)
 
+## 辞書 (Dictionary)
+
+- [Dictionary Part-1](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUM01VMFhYRkwxQTRBMkFSTk1BUUkzU0I2TC4u)
+
 ## if 文
 
 - [Quiz if](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUNU9EQlVUTE9USTU4N0FGWTg1SDZVTUNKOC4u)
