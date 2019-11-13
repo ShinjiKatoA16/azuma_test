@@ -114,7 +114,7 @@ INSTALLED_APPS = [
 ]
 ```
 
-- edit blog\models.py
+- `atom blog\models.py`
 
 ```
 from django.conf import settings
@@ -142,7 +142,7 @@ class Post(models.Model):
 
 ### Django admin
 
-- edit blog\admin.py
+- `atom blog\admin.py`
 
 ```
 from django.contrib import admin
@@ -235,7 +235,7 @@ db.sqlite3
   
 ## what to do
 
-  - modify mysite\urls.py
+  - `atom mysite\urls.py`
 ```
 from django.contrib import admin
 from django.urls import path, include
@@ -245,7 +245,7 @@ urlpatterns = [
     path('', include('blog.urls')),
 ]
 ```
-  - create blog\urls.py
+  - `atom blog\urls.py`
   
 ```
 from django.urls import path
@@ -256,7 +256,7 @@ urlpatterns = [
 ]
 ```
 
-  - modify blog\views.py
+  - `atom blog\views.py`
   
 ```
 from django.shortcuts import render
@@ -265,7 +265,7 @@ def post_list(request):
     return render(request, 'blog/post_list.html', {})
 ```
 
-  - create blog/templates/blog/post_list.html
+  - `atom blog\templates\blog\post_list.html`
   
 ```
 <html>
@@ -307,3 +307,7 @@ def post_list(request):
   + `git pull`
 - pythonanywhere の web の tab をひらいて、**Reload** のボタンをクリック
 - User-ID.pythonanywhere.com を web browser でひらく
+
+# ORM hands on
+
+https://tutorial.djangogirls.org/ja/django_orm/
