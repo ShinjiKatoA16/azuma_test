@@ -25,6 +25,10 @@
 
 - [Dictionary Part-1](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUM01VMFhYRkwxQTRBMkFSTk1BUUkzU0I2TC4u)
 
+## 集合 (Set)
+
+- [Set](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUQk8wQUc3MUxUSENTT1o2WlAyWlY0SFQ3Mi4u)
+
 ## if 文
 
 - [Quiz if](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUNU9EQlVUTE9USTU4N0FGWTg1SDZVTUNKOC4u)
