@@ -1,5 +1,10 @@
 # AP1-1(PM 5F) Quiz of Python (Python のクイズ)
 
+## CompTIA れんしゅうもんだい
+
+- [COMPTIA 日本語50問](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUREhESkRBQU5VNkJPRVo3MFg5OVE4N1gzRC4u)
+- [COMPTIA 日本語・英語 18問](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUNjRaN1dFSjlTUkRZUkI4Slg4TVZDWlFYUi4u)
+
 ## ちゅうかんしけん　れんしゅうもんだい
 
 - [Test practice](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUOEk0SjEzQldNOEo4RDBVV1lDT0s5MkI2My4u)
