@@ -311,3 +311,33 @@ def post_list(request):
 # ORM hands on
 
 https://tutorial.djangogirls.org/ja/django_orm/
+
+# Template 内の動的データ
+
+- `atom blog\views.py`
+
+```
+from django.shortcuts import render
+from django.utils import timezone
+from .models import Post
+
+def post_list(request):
+    posts = Post.objects.filter(published_date__lte=timezone.now()).order_by('published_date')
+    return render(request, 'blog/post_list.html', {'posts': posts})
+```
+
+- `atom blog\templates\blog\post_list.html`
+
+```
+<div>
+    <h1><a href="/">Django Girls Blog</a></h1>
+</div>
+
+{% for post in posts %}
+    <div>
+        <p>published: {{ post.published_date }}</p>
+        <h2><a href="">{{ post.title }}</a></h2>
+        <p>{{ post.text|linebreaksbr }}</p>
+    </div>
+{% endfor %}
+```
