@@ -341,3 +341,7 @@ def post_list(request):
     </div>
 {% endfor %}
 ```
+
+## django の組み込みタグのリファレンス
+
+[Django Document](https://djangoproject.jp/doc/ja/1.0/ref/templates/builtins.html)
