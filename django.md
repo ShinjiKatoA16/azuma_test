@@ -344,4 +344,7 @@ def post_list(request):
 
 ## django の組み込みタグのリファレンス
 
-[Django Document](https://djangoproject.jp/doc/ja/1.0/ref/templates/builtins.html)
+- [Django Document 日本語](https://djangoproject.jp/doc/ja/1.0/ref/templates/builtins.html)
+- [Django Document 英語](https://docs.djangoproject.com/en/3.0/ref/templates/builtins/)
+
+# CSS (Cascading Style Sheet)
