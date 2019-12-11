@@ -348,3 +348,225 @@ def post_list(request):
 - [Django Document 英語](https://docs.djangoproject.com/en/3.0/ref/templates/builtins/)
 
 # CSS (Cascading Style Sheet)
+
+## install bootstrap(CSS framework)
+
+- `atom blog\templates\blog\post_list.html`
+
+```
+<head>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+</head>
+
+<div>
+    <h1><a href="/">Django Girls Blog</a></h1>
+</div>
+
+{% for post in posts %}
+    <div>
+        <p>published: {{ post.published_date }}</p>
+        <h2><a href="">{{ post.title }}</a></h2>
+        <p>{{ post.text|linebreaksbr }}</p>
+    </div>
+{% endfor %}
+```
+
+- `python manage.py runserver`
+- access 127.0.0.1:8000 using web browser (color of header is now blue)
+
+## Create CSS file
+
+- `atom blog\static\css\blog.css`
+
+```
+h1 a, h2 a {
+    color: #C25100;
+}
+```
+
+- `atom blog\templates\blog\post_list.html`
+
+```
+{% load static %}
+<html>
+    <head>
+        <title>Django Girls blog</title>
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="{% static 'css/blog.css' %}">
+    </head>
+    <body>
+        <div>
+            <h1><a href="/">Django Girls Blog</a></h1>
+        </div>
+
+        {% for post in posts %}
+            <div>
+                <p>published: {{ post.published_date }}</p>
+                <h2><a href="">{{ post.title }}</a></h2>
+                <p>{{ post.text|linebreaksbr }}</p>
+            </div>
+        {% endfor %}
+    </body>
+</html>
+```
+
+- reload 127.0.0.1:8000 (color of header is now orange)
+
+### try other color
+
+- Google で CSS color を検索
+
+## Adjust left padding
+
+- `atom blog\static\css\blog.css`
+
+```
+h1 a, h2 a {
+    color: #C25100;
+}
+
+body {
+    padding-left: 15px;
+}
+```
+
+- reload 127.0.0.1:8000 (left padding is inserted)
+
+## Change font
+
+- `atom blog\templates\blog\post_list.html`
+
+```
+{% load static %}
+<html>
+    <head>
+        <title>Django Girls blog</title>
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+        <link href="//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="{% static 'css/blog.css' %}">
+    </head>
+    <body>
+        <div>
+            <h1><a href="/">Django Girls Blog</a></h1>
+        </div>
+
+        {% for post in posts %}
+            <div>
+                <p>published: {{ post.published_date }}</p>
+                <h2><a href="">{{ post.title }}</a></h2>
+                <p>{{ post.text|linebreaksbr }}</p>
+            </div>
+        {% endfor %}
+    </body>
+</html>
+```
+
+- `atom blog\static\css\blog.css`
+
+```
+h1 a, h2 a {
+    color: #C25100;
+    font-family: 'Lobster';
+}
+
+body {
+    padding-left: 15px;
+}
+```
+
+### try other fonts
+
+https://fonts.google.com/
+
+## CSS class
+
+- `atom blog\templates\blog\post_list.html`
+
+```
+{% load static %}
+<html>
+    <head>
+        <title>Django Girls blog</title>
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+        <link href="//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="{% static 'css/blog.css' %}">
+    </head>
+    <body>
+        <div class="page-header">
+            <h1><a href="/">Django Girls Blog</a></h1>
+        </div>
+
+        <div class="content container">
+            <div class="row">
+                <div class="col-md-8">
+                    {% for post in posts %}
+                        <div class="post">
+                            <div class="date">
+                                <p>published: {{ post.published_date }}</p>
+                            </div>
+                            <h2><a href="">{{ post.title }}</a></h2>
+                            <p>{{ post.text|linebreaksbr }}</p>
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+        
+    </body>
+</html>
+```
+
+- `atom blog\static\css\blog.css`
+
+```
+.page-header {
+    background-color: #C25100;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+    color: #ffffff;
+    font-size: 36pt;
+    text-decoration: none;
+}
+
+.content {
+    margin-left: 40px;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Lobster', cursive;
+}
+
+.date {
+    color: #828282;
+}
+
+.save {
+    float: right;
+}
+
+.post-form textarea, .post-form input {
+    width: 100%;
+}
+
+.top-menu, .top-menu:hover, .top-menu:visited {
+    color: #ffffff;
+    float: right;
+    font-size: 26pt;
+    margin-right: 20px;
+}
+
+.post {
+    margin-bottom: 70px;
+}
+
+.post h2 a, .post h2 a:visited {
+    color: #000000;
+}
+```
