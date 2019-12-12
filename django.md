@@ -570,3 +570,7 @@ h1, h2, h3, h4 {
     color: #000000;
 }
 ```
+
+## CSS self study
+
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/
