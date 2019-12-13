@@ -574,3 +574,43 @@ h1, h2, h3, h4 {
 ## CSS self study
 
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/
+
+# Template の拡張
+
+共通部分を別のファイルにして別のファイルにすることができます
+
+- `atom blog\templates\blog\base.html`
+
+```
+<body>
+    <div class="page-header">
+        <h1><a href="/">Django Girls Blog</a></h1>
+    </div>
+    <div class="content container">
+        <div class="row">
+            <div class="col-md-8">
+            {% block content %}
+            {% endblock %}
+            </div>
+        </div>
+    </div>
+</body>
+```
+
+- `atom blog\templates\blog\post_list.html`
+
+```
+{% extends 'blog/base.html' %}
+
+{% block content %}
+    {% for post in posts %}
+        <div class="post">
+            <div class="date">
+                {{ post.published_date }}
+            </div>
+            <h2><a href="">{{ post.title }}</a></h2>
+            <p>{{ post.text|linebreaksbr }}</p>
+        </div>
+    {% endfor %}
+{% endblock %}
+```
