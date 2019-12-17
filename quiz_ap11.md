@@ -37,3 +37,7 @@
 ## if 文
 
 - [Quiz if](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUNU9EQlVUTE9USTU4N0FGWTg1SDZVTUNKOC4u)
+
+## Loop (for, while)
+
+- [for while part1](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUNUg5NUhDSjlUSExBMDBDS0hUTlRPSjROQi4u)
