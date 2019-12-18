@@ -614,3 +614,5 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/
     {% endfor %}
 {% endblock %}
 ```
+
+# Application の拡張
