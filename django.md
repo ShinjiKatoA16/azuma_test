@@ -73,6 +73,7 @@ Following conda commands are used. Change env_name to proper one.
 - Terminate the web server Ctrl-C (Ctrl-Break  Ctrl-Fn-B ?)
 
 ### Change settings
+TIME_ZONE LAGNUAGE_CODE はしゅうせい、STATAIC_ROOT はファイルのさいごについか
 
 - `atom mysite\settings.py`
   + TIME_ZONE = 'Asia/Tokyo'
