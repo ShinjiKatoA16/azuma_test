@@ -6,4 +6,11 @@
 
 # 1st step
 
+## Create and move to working directory
+
+- `mkdir Desktop\flask-test`
+- `cd Desktop\flask-test`
+
+## Simple Sample
+
 https://www.sejuku.net/blog/55507
