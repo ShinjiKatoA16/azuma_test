@@ -14,3 +14,9 @@
 ## Simple Sample
 
 https://www.sejuku.net/blog/55507
+
+# Official Tutorial
+
+https://a2c.bitbucket.io/flask/
+
+https://flask.palletsprojects.com/en/1.1.x/tutorial/
