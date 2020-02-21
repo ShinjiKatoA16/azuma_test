@@ -1,5 +1,7 @@
 # Create virtual environment
 
+Open MiniConda(Anaconda) terminal.
+
 - `conda create -n flask python=3.8`
 - `conda activate flask`
 - `pip install flask`
