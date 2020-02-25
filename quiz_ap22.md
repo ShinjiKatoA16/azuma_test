@@ -1,5 +1,9 @@
 # AP2-2(AM 4F) Quiz of Python (Python のクイズ)
 
+## Comptia Foundamental れんしゅうもんだい
+
+- [Comptia](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BURFRCUTJTWk02UFNQUzBSM1laM1dLVkhDQS4u)
+
 ## Operators (演算子）
 
 - [Quiz Operator](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUQkMxQzNHNEZaNE1ZQjRBQlNDUVBLWTZWVy4u)
