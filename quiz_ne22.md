@@ -1,5 +1,9 @@
 # NE2-2(PM 3F) Quiz of Python (Python のクイズ)
 
+## Comptia れんしゅうもんだい
+
+- [Comptia](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BURFRCUTJTWk02UFNQUzBSM1laM1dLVkhDQS4u)
+
 ## Operators (演算子）
 
 - [Quiz oprator](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUM1FIM1pQVlo0OVBPUE81SUhZSExJNkxPWS4u)
