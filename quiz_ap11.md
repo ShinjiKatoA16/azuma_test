@@ -1,5 +1,9 @@
 # AP1-1(PM 5F) Quiz of Python (Python のクイズ)
 
+## きまつテスト　れんしゅうもんだい
+
+[AP1-1 2019 Python 練習問題](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3UJ77BFgJ2dGsEAnAULY8_tUNFlPTzhJTTVSNVNUUjZTNVJRQVUwVE9YSC4u)
+
 ## CompTIA れんしゅうもんだい
 
 - [COMPTIA 日本語50問](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUREhESkRBQU5VNkJPRVo3MFg5OVE4N1gzRC4u)
