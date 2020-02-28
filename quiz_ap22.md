@@ -12,14 +12,14 @@
 
 - [Quiz_String](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUMDVZUlhEWE5BWURMWFRIVEhHTkRZQk5EMS4u)
 
-## if 文
-
-- [Quiz if](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUMFVJOVlXQ002VDNPVjdKVDhLTFJUOVBGMS4u)
-
 ## int, float, str, print
 
 - [Quiz variables](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUMlFFVzFIRTgxQlFXVDU1UlVEWURUNlc2QS4u)
 - [Quiz print](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUMTVBT1dPVTNVUFVTMzFLUEtGSjVENUQyTi4u)
+
+## if 文
+
+- [Quiz if](https://forms.office.com/Pages/ResponsePage.aspx?id=IznFG0aMWkSwGiWWqSyf3Y7pjgeKEGRKgzR626wJl2BUMFVJOVlXQ002VDNPVjdKVDhLTFJUOVBGMS4u)
 
 ## list, tuple
 
