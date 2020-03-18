@@ -15,7 +15,8 @@ Open MiniConda(Anaconda) terminal.
 
 ## Simple Sample
 
-https://www.sejuku.net/blog/55507
+- https://www.sejuku.net/blog/55507
+- https://tanuhack.com/jinja2-cheetsheet/
 
 # Official Tutorial
 
